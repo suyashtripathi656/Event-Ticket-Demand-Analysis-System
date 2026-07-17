@@ -1,3 +1,23 @@
+"""
+# Model Training & Saving Pipeline
+
+## Background Context
+This script is a continuation of the explorations done in the `work_2_working_with_merged_dataset` notebook. 
+In that notebook, we:
+- Performed Exploratory Data Analysis (EDA) on the merged dataset.
+- Experimented with and evaluated several different machine learning models.
+- Established the core feature engineering and formulas required for our predictions.
+## Purpose of this Script
+Based on the analysis phase, the **Random Forest Regressor** was selected as the optimal model. 
+This is a dedicated, production-ready script designed solely to:
+1. Re-apply the same data transformations and formulas established in our analysis.
+2. Train the final Random Forest Regressor model on the full dataset.
+3. Serialize and save the trained model (e.g., as a `.pkl` or `.joblib` file) so it can be deployed or loaded into our Streamlit app without needing to retrain.
+---
+**Model Chosen:** Random Forest Regressor
+**Input Data:** Merged Dataset (processed)
+"""
+
 import pandas as pd
 import numpy as np
 import warnings
