@@ -1,0 +1,124 @@
+# 📊 Event Ticket Demand Analysis System
+
+**AI-Powered Demand Prediction for Sports Events**
+*IBM Data Science Internship — End-to-End Machine Learning Project*
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io)
+
+---
+
+## 🎯 Overview
+
+An enterprise-grade dashboard that predicts event ticket demand using Machine Learning and Explainable AI. The system analyzes 1,385+ sporting events across NBA, NFL, MLB, NHL, and Stadium Tours, leveraging 15+ engineered features to deliver real-time demand predictions with confidence scores and actionable business recommendations.
+
+### Key Features
+
+| Feature | Description |
+|---------|-------------|
+| **📊 Analytics Dashboard** | 20+ interactive Plotly charts across 5 analysis categories |
+| **🎯 Demand Predictor** | Smart auto-fill system — enter 7 inputs, AI retrieves 20+ features |
+| **⚖️ Event Comparison** | Side-by-side demand comparison with radar charts |
+| **🔬 What-If Analysis** | Scenario simulation (flip weekend, change venue, etc.) |
+| **🧠 Explainable AI** | Per-feature contribution analysis with business-readable explanations |
+| **📥 Export** | Download prediction reports as TXT or CSV |
+
+---
+
+## 🛠️ Technology Stack
+
+- **Data Processing**: Pandas, NumPy
+- **Machine Learning**: Scikit-Learn (Random Forest Regressor, 100 trees)
+- **Visualization**: Plotly (20+ chart types)
+- **Web Framework**: Streamlit with Custom CSS Design System
+- **Serialization**: Joblib
+
+---
+
+## 📁 Project Structure
+
+```
+streamlit_app/
+├── app.py                          # Main application (6 pages)
+├── requirements.txt                # Python dependencies
+├── runtime.txt                     # Python version for Streamlit Cloud
+├── train_and_save_model.py         # Model training pipeline
+├── .gitignore
+├── .streamlit/
+│   └── config.toml                 # Dark theme configuration
+├── output/
+│   ├── master_combined_dataset.csv # 1,385 events × 49 columns
+│   ├── trained_model.pkl           # Random Forest model (~6.7 MB)
+│   ├── preprocessor.pkl            # Feature metadata & importances
+│   └── demand_scaler.pkl           # MinMaxScaler for demand scores
+├── utils/
+│   ├── __init__.py
+│   ├── helper.py                   # UI components & CSS design system
+│   ├── preprocessing.py            # Smart auto-fill & feature engineering
+│   ├── prediction.py               # Prediction engine & Explainable AI
+│   ├── visualization.py            # 20+ Plotly chart functions
+│   └── recommendation.py           # Similarity engine & report generation
+└── assets/
+    └── .gitkeep
+```
+
+---
+
+## 🚀 Local Setup
+
+### Prerequisites
+- Python 3.11+
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/YOUR_USERNAME/event-demand-analysis.git
+cd event-demand-analysis
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the app
+streamlit run app.py
+```
+
+The app will open at `http://localhost:8501`.
+
+### Retraining the Model (Optional)
+
+If you need to retrain the model with updated data:
+
+```bash
+python train_and_save_model.py
+```
+
+This regenerates `trained_model.pkl`, `preprocessor.pkl`, and `demand_scaler.pkl` in the `output/` directory.
+
+---
+
+## ☁️ Deployment (Streamlit Community Cloud)
+
+1. Push the `streamlit_app/` contents to a GitHub repository
+2. Go to [share.streamlit.io](https://share.streamlit.io)
+3. Click **"New app"**
+4. Select your repo → Branch: `main` → Main file: `app.py`
+5. Click **"Deploy"**
+
+Expected cold-start time: ~45-60 seconds.
+
+---
+
+## 🧠 How It Works
+
+1. **Data Integration** — Events, Performers, and Venues data merged into a unified dataset
+2. **Feature Engineering** — 15+ features including temporal dynamics and star power metrics
+3. **Demand Score Formula** — Weighted log-popularity with playoff/weekend multipliers, scaled 0-100
+4. **Random Forest Model** — 100 decision trees with top 30 features selected by importance
+5. **Smart Prediction** — Enter 7 natural inputs → system auto-fills 20+ features → AI predicts demand
+6. **Explainable AI** — Every prediction includes feature contributions and business recommendations
+
+---
+
+## 📄 License
+
+This project was developed as part of the IBM Data Science Internship program.
