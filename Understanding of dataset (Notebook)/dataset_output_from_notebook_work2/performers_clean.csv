@@ -1,0 +1,243 @@
+performerId,name,shortName,type,performer_score,performer_popularity,homeVenueId,isEvent,divisionName,divisionShortName,taxonomyName,taxonomySubName,performer_popularity_level,has_home_venue
+2089,Brooklyn Nets,Nets,nba,0.69,24246,7546.0,False,Eastern - Atlantic,Atlantic,sports,basketball,Medium,1
+2097,Milwaukee Bucks,Bucks,nba,0.66,23935,435592.0,False,Eastern - Central,Central,sports,basketball,Medium,1
+2100,Miami Heat,Heat,nba,0.69,16555,183.0,False,Eastern - Southeast,Southeast,sports,basketball,Medium,1
+2104,Minnesota Timberwolves,Timberwolves,nba,0.69,1206,135.0,False,Western - Northwest,Northwest,sports,basketball,Low,1
+2105,Oklahoma City Thunder,Thunder,nba,0.73,556,208.0,False,Western - Northwest,Northwest,sports,basketball,Low,1
+2108,Golden State Warriors,Warriors,nba,0.71,38616,467029.0,False,Western - Pacific,Pacific,sports,basketball,Medium,1
+2110,Los Angeles Lakers,Lakers,nba,0.76,14681,134.0,False,Western - Pacific,Pacific,sports,basketball,Medium,1
+2112,Sacramento Kings,Kings,nba,0.65,23935,177304.0,False,Western - Pacific,Pacific,sports,basketball,Medium,1
+2116,New Orleans Pelicans,Pelicans,nba,0.7,913,184.0,False,Western - Southwest,Southwest,sports,basketball,Low,1
+2117,San Antonio Spurs,Spurs,nba,0.77,14681,185.0,False,Western - Southwest,Southwest,sports,basketball,Medium,1
+23508,NBA Summer League,NBA Summer League,nba,0.58,20810,950.0,True,No Division,No Division,sports,basketball,Medium,1
+684126,California Classic,California Classic,nba,0.55,38616,177304.0,True,No Division,No Division,sports,basketball,Medium,1
+793993,Salt Lake City Summer League,Salt Lake City Summer League,nba,0.7,80005,188.0,True,No Division,No Division,sports,basketball,Medium,1
+2136,Nashville Predators,Predators,nhl,0.65,1756,2195.0,False,Western - Central,Central,sports,hockey,Low,1
+2142,Vancouver Canucks,Canucks,nhl,0.63,1354,2983.0,False,Western - Pacific,Pacific,sports,hockey,Low,1
+2135,Detroit Red Wings,Red Wings,nhl,0.66,1295,420444.0,False,Eastern - Atlantic,Atlantic,sports,hockey,Low,1
+2134,Columbus Blue Jackets,Blue Jackets,nhl,0.63,798,430.0,False,Eastern - Metropolitan,Metropolitan,sports,hockey,Low,1
+2132,Washington Capitals,Capitals,nhl,0.68,3010,181.0,False,Eastern - Metropolitan,Metropolitan,sports,hockey,Medium,1
+2131,Tampa Bay Lightning,Lightning,nhl,0.67,1268,182.0,False,Eastern - Atlantic,Atlantic,sports,hockey,Low,1
+12521,NHL Winter Classic,NHL Winter Classic,nhl,0.83,17457,Unknown,True,No Division,No Division,sports,hockey,Medium,0
+2130,Florida Panthers,Panthers,nhl,0.75,881,126.0,False,Eastern - Atlantic,Atlantic,sports,hockey,Low,1
+2139,Colorado Avalanche,Avalanche,nhl,0.68,18607,187.0,False,Western - Central,Central,sports,hockey,Medium,1
+2128,Winnipeg Jets,Jets,nhl,0.64,1507,98.0,False,Western - Central,Central,sports,hockey,Low,1
+2125,Montreal Canadiens,Canadiens,nhl,0.68,947,139.0,False,Eastern - Atlantic,Atlantic,sports,hockey,Low,1
+149285,NHL Draft,NHL Draft,nhl,0.55,9834,Unknown,True,No Division,No Division,sports,hockey,Medium,0
+794055,Seattle Kraken,Kraken,nhl,0.64,1450,176.0,False,Western - Pacific,Pacific,sports,hockey,Low,1
+2124,Buffalo Sabres,Sabres,nhl,0.66,1177,212.0,False,Eastern - Atlantic,Atlantic,sports,hockey,Low,1
+627288,Vegas Golden Knights,Golden Knights,nhl,0.71,14606,161601.0,False,Western - Pacific,Pacific,sports,hockey,Medium,1
+2123,Boston Bruins,Bruins,nhl,0.69,2811,1544.0,False,Eastern - Atlantic,Atlantic,sports,hockey,Low,1
+304538,NHL Stadium Series,NHL Stadium Series,nhl,0.83,12708,Unknown,True,No Division,No Division,sports,hockey,Medium,0
+260530,NHL Heritage Classic,NHL Heritage Classic,nhl,0.7,811,Unknown,True,No Division,No Division,sports,hockey,Low,0
+2147,San Jose Sharks,Sharks,nhl,0.63,3825,157.0,False,Western - Pacific,Pacific,sports,hockey,Medium,1
+811913,Utah Mammoth,Mammoth,nhl,0.75,18926,188.0,False,Western - Central,Central,sports,hockey,Medium,1
+2145,Los Angeles Kings,Kings,nhl,0.64,1162,134.0,False,Western - Pacific,Pacific,sports,hockey,Low,1
+2144,Dallas Stars,Stars,nhl,0.7,12708,117.0,False,Western - Central,Central,sports,hockey,Medium,1
+2122,Pittsburgh Penguins,Penguins,nhl,0.67,898,2265.0,False,Eastern - Metropolitan,Metropolitan,sports,hockey,Low,1
+2121,Philadelphia Flyers,Flyers,nhl,0.67,1964,3148.0,False,Eastern - Metropolitan,Metropolitan,sports,hockey,Low,1
+2120,New York Rangers,Rangers,nhl,0.7,2091,93.0,False,Eastern - Metropolitan,Metropolitan,sports,hockey,Low,1
+2119,New York Islanders,Islanders,nhl,0.64,1793,518722.0,False,Eastern - Metropolitan,Metropolitan,sports,hockey,Low,1
+2118,New Jersey Devils,Devils,nhl,0.65,1776,1500.0,False,Eastern - Metropolitan,Metropolitan,sports,hockey,Low,1
+2140,Edmonton Oilers,Oilers,nhl,0.71,841,75884.0,False,Western - Pacific,Pacific,sports,hockey,Low,1
+2143,Anaheim Ducks,Ducks,nhl,0.64,1136,133.0,False,Western - Pacific,Pacific,sports,hockey,Low,1
+2138,Calgary Flames,Flames,nhl,0.63,797,96.0,False,Western - Pacific,Pacific,sports,hockey,Low,1
+2078,Washington Commanders,Commanders,nfl,0.86,564533,35.0,False,NFC East,NFC East,sports,football,Elite,1
+2071,Houston Texans,Texans,nfl,0.81,277395,41.0,False,AFC South,AFC South,sports,football,High,1
+809925,AT&T Stadium Self-Guided Rally Day Tour,AT&T Stadium Self-Guided Rally Day Tour,stadium_tours,0.43,10,Unknown,False,No Division,No Division,sports,football,Low,0
+2067,Tampa Bay Buccaneers,Buccaneers,nfl,0.81,289750,39.0,False,NFC South,NFC South,sports,football,High,1
+2068,Detroit Lions,Lions,nfl,0.82,311214,346.0,False,NFC North,NFC North,sports,football,High,1
+2069,New Orleans Saints,Saints,nfl,0.84,444567,128.0,False,NFC South,NFC South,sports,football,High,1
+2065,Indianapolis Colts,Colts,nfl,0.78,190051,1130.0,False,AFC South,AFC South,sports,football,High,1
+2064,Jacksonville Jaguars,Jaguars,nfl,0.79,188678,5178.0,False,AFC South,AFC South,sports,football,High,1
+2072,Minnesota Vikings,Vikings,nfl,0.81,263738,218451.0,False,NFC North,NFC North,sports,football,High,1
+2073,Cleveland Browns,Browns,nfl,0.79,189781,1123.0,False,AFC North,AFC North,sports,football,High,1
+2074,Denver Broncos,Broncos,nfl,0.82,378129,1131.0,False,AFC West,AFC West,sports,football,High,1
+2075,Cincinnati Bengals,Bengals,nfl,0.81,263174,1124.0,False,AFC North,AFC North,sports,football,High,1
+2076,San Francisco 49ers,49ers,nfl,0.85,522939,58670.0,False,NFC West,NFC West,sports,football,Elite,1
+2077,Arizona Cardinals,Cardinals,nfl,0.76,614299,43.0,False,NFC West,NFC West,sports,football,Elite,1
+2063,Carolina Panthers,Panthers,nfl,0.79,255075,1122.0,False,NFC South,NFC South,sports,football,High,1
+2079,New York Giants,Giants,nfl,0.82,352779,1587.0,False,NFC East,NFC East,sports,football,High,1
+2080,Los Angeles Rams,Rams,nfl,0.83,372993,487036.0,False,NFC West,NFC West,sports,football,High,1
+2081,Seattle Seahawks,Seahawks,nfl,0.84,479604,339.0,False,NFC West,NFC West,sports,football,High,1
+2082,Chicago Bears,Bears,nfl,0.83,430301,31.0,False,NFC North,NFC North,sports,football,High,1
+2083,Green Bay Packers,Packers,nfl,0.84,461650,1125.0,False,NFC North,NFC North,sports,football,High,1
+2084,Buffalo Bills,Bills,nfl,0.83,421055,1135.0,False,AFC East,AFC East,sports,football,High,1
+2085,New England Patriots,Patriots,nfl,0.82,303307,33.0,False,AFC East,AFC East,sports,football,High,1
+2086,Los Angeles Chargers,Chargers,nfl,0.81,239029,487036.0,False,AFC West,AFC West,sports,football,High,1
+2087,Las Vegas Raiders,Raiders,nfl,0.83,457215,514837.0,False,AFC West,AFC West,sports,football,High,1
+2062,Philadelphia Eagles,Eagles,nfl,0.87,699598,330.0,False,NFC East,NFC East,sports,football,Elite,1
+2070,New York Jets,Jets,nfl,0.79,215152,1587.0,False,AFC East,AFC East,sports,football,High,1
+2061,Baltimore Ravens,Ravens,nfl,0.84,357913,1121.0,False,AFC North,AFC North,sports,football,High,1
+2060,Kansas City Chiefs,Chiefs,nfl,0.83,312562,1128.0,False,AFC West,AFC West,sports,football,High,1
+2059,Atlanta Falcons,Falcons,nfl,0.8,290016,419590.0,False,NFC South,NFC South,sports,football,High,1
+2058,Miami Dolphins,Dolphins,nfl,0.79,250437,29.0,False,AFC East,AFC East,sports,football,High,1
+2057,Tennessee Titans,Titans,nfl,0.83,393216,1126.0,False,AFC South,AFC South,sports,football,High,1
+2056,Pittsburgh Steelers,Steelers,nfl,0.83,386877,1119.0,False,AFC North,AFC North,sports,football,High,1
+607347,TBD,TBD,band,0.55,0,Unknown,False,No Division,No Division,concert,concert,Low,0
+1954364,AT&T Stadium VIP Guided Rally Day Tour,AT&T Stadium VIP Guided Rally Day Tour,stadium_tours,0.45,1300,Unknown,False,No Division,No Division,sports,football,Low,0
+799458,Kansas City Chiefs Tailgates,Kansas City Chiefs Tailgates,nfl,0.45,121,1128.0,True,No Division,No Division,sports,football,Low,1
+2066,Dallas Cowboys,Cowboys,nfl,0.87,1134281,4965.0,False,NFC East,NFC East,sports,football,Elite,1
+807539,AT&T Stadium VIP Guided Tour,AT&T Stadium VIP Guided Tour,stadium_tours,0.41,4323,Unknown,False,No Division,No Division,sports,football,Medium,0
+806011,NFL International Series,NFL International Series,nfl,0.77,54604,Unknown,True,No Division,No Division,sports,football,Medium,0
+803931,Dallas Cowboys Fan Experiences,Dallas Cowboys Fan Experiences,nfl,0.65,19198,521360.0,True,No Division,No Division,sports,football,Medium,1
+117841,NFL Hall of Fame Enshrinement,NFL Hall of Fame Enshrinement,nfl,0.61,336,Unknown,True,No Division,No Division,sports,football,Low,0
+810600,AT&T Stadium Owner's Experience Tour,AT&T Stadium Owner's Experience Tour,stadium_tours,0.31,0,Unknown,False,No Division,No Division,sports,football,Low,0
+793882,Arizona Cardinals Training Camp,Arizona Cardinals Training Camp,nfl,0.3,109,43.0,True,No Division,No Division,sports,football,Low,1
+140920,NFL Hall Of Fame Game,NFL Hall Of Fame Game,nfl,0.74,10951,Unknown,True,No Division,No Division,sports,football,Medium,0
+1,Los Angeles Dodgers,Dodgers,mlb,0.81,6941922,1.0,False,National League West,NL West,sports,baseball,Elite,1
+8,New York Yankees,Yankees,mlb,0.77,5227227,8.0,False,American League East,AL East,sports,baseball,Elite,1
+9,Washington Nationals,Nationals,mlb,0.72,2978952,3713.0,False,National League East,NL East,sports,baseball,Elite,1
+21,Boston Red Sox,Red Sox,mlb,0.76,4220341,21.0,False,American League East,AL East,sports,baseball,Elite,1
+10,Pittsburgh Pirates,Pirates,mlb,0.72,3559320,10.0,False,National League Central,NL Central,sports,baseball,Elite,1
+20,Houston Astros,Astros,mlb,0.73,2407365,20.0,False,American League West,AL West,sports,baseball,Elite,1
+2,Atlanta Braves,Braves,mlb,0.75,4264376,418889.0,False,National League East,NL East,sports,baseball,Elite,1
+19,Minnesota Twins,Twins,mlb,0.71,2546381,3712.0,False,American League Central,AL Central,sports,baseball,Elite,1
+22,San Francisco Giants,Giants,mlb,0.76,2854343,22.0,False,National League West,NL West,sports,baseball,Elite,1
+23,Chicago White Sox,White Sox,mlb,0.72,2470343,3715.0,False,American League Central,AL Central,sports,baseball,Elite,1
+24,San Diego Padres,Padres,mlb,0.76,5698491,24.0,False,National League West,NL West,sports,baseball,Elite,1
+25,Baltimore Orioles,Orioles,mlb,0.73,2460029,25.0,False,American League East,AL East,sports,baseball,Elite,1
+26,Cincinnati Reds,Reds,mlb,0.72,2244148,26.0,False,National League Central,NL Central,sports,baseball,Elite,1
+18,Philadelphia Phillies,Phillies,mlb,0.76,4280667,18.0,False,National League East,NL East,sports,baseball,Elite,1
+27,St. Louis Cardinals,Cardinals,mlb,0.73,4042657,27.0,False,National League Central,NL Central,sports,baseball,Elite,1
+28,Los Angeles Angels,Angels,mlb,0.72,1990839,28.0,False,American League West,AL West,sports,baseball,Elite,1
+29,Miami Marlins,Marlins,mlb,0.7,1805304,6371.0,False,National League East,NL East,sports,baseball,Elite,1
+3,New York Mets,Mets,mlb,0.75,3688336,3.0,False,National League East,NL East,sports,baseball,Elite,1
+30,Arizona Diamondbacks,Diamondbacks,mlb,0.74,2453321,30.0,False,National League West,NL West,sports,baseball,Elite,1
+17,Toronto Blue Jays,Blue Jays,mlb,0.77,3516387,17.0,False,American League East,AL East,sports,baseball,Elite,1
+4,Tampa Bay Rays,Rays,mlb,0.71,2401644,4.0,False,American League East,AL East,sports,baseball,Elite,1
+5,Kansas City Royals,Royals,mlb,0.71,2069489,3714.0,False,American League Central,AL Central,sports,baseball,Elite,1
+6,Cleveland Guardians,Guardians,mlb,0.72,2508360,6.0,False,American League Central,AL Central,sports,baseball,Elite,1
+16,Texas Rangers,Rangers,mlb,0.74,2670088,487468.0,False,American League West,AL West,sports,baseball,Elite,1
+1022,Kansas,Kansas,band,0.47,2800,Unknown,False,No Division,No Division,concert,concert,Low,0
+7,Colorado Rockies,Rockies,mlb,0.72,2560578,7.0,False,National League West,NL West,sports,baseball,Elite,1
+720652,Dizgo,Dizgo,band,0.39,30,Unknown,False,No Division,No Division,concert,concert,Low,0
+11,Chicago Cubs,Cubs,mlb,0.78,5335374,11.0,False,National League Central,NL Central,sports,baseball,Elite,1
+12,Detroit Tigers,Tigers,mlb,0.72,2762855,12.0,False,American League Central,AL Central,sports,baseball,Elite,1
+13,Seattle Mariners,Mariners,mlb,0.74,2802179,13.0,False,American League West,AL West,sports,baseball,Elite,1
+14,Athletics,Athletics,mlb,0.71,2148094,317.0,False,American League West,AL West,sports,baseball,Elite,1
+15,Milwaukee Brewers,Brewers,mlb,0.73,2593698,15.0,False,National League Central,NL Central,sports,baseball,Elite,1
+796002,Field of Dreams Game,Field of Dreams Game,mlb,0.86,85492,Unknown,True,No Division,No Division,sports,baseball,Medium,0
+9243,Iowa Cubs,Iowa Cubs,minor_league_baseball,0.39,6635,Unknown,False,No Division,No Division,sports,baseball,Medium,0
+15655,St. Paul Saints,St. Paul Saints,minor_league_baseball,0.41,8543,Unknown,False,No Division,No Division,sports,baseball,Medium,0
+803002,MLB Futures and Legends Game,MLB Futures and Legends Game,mlb,0.73,33816,Unknown,True,No Division,No Division,sports,baseball,Medium,0
+792397,MLB Home Run Derby,MLB Home Run Derby,mlb,0.9,588287,Unknown,True,No Division,No Division,sports,baseball,Elite,0
+7264,MLB All-Star Game,MLB All-Star Game,mlb,0.88,1246395,Unknown,True,No Division,No Division,sports,baseball,Elite,0
+149290,NBA Draft,NBA Draft,nba,0.6,7689,Unknown,True,No Division,No Division,sports,basketball,Medium,0
+7331,Gowan,Gowan,band,0.33,301,Unknown,False,No Division,No Division,concert,concert,Low,0
+14344,NHL Stanley Cup Finals,NHL Stanley Cup Finals,nhl,0.85,1661451,Unknown,True,No Division,No Division,sports,hockey,Elite,0
+792982,NHL Playoffs,NHL Playoffs,nhl,0.76,1661451,Unknown,True,No Division,No Division,sports,hockey,Elite,0
+2129,Carolina Hurricanes,Hurricanes,nhl,0.69,1661451,1430.0,False,Eastern - Metropolitan,Metropolitan,sports,hockey,Elite,1
+793391,NBA Finals,NBA Finals,nba,0.9,13507127,Unknown,True,No Division,No Division,sports,basketball,Elite,0
+787992,NBA Playoffs,NBA Playoffs,nba,0.81,13507127,Unknown,True,No Division,No Division,sports,basketball,Elite,0
+2090,New York Knicks,Knicks,nba,0.8,13507127,93.0,False,Eastern - Atlantic,Atlantic,sports,basketball,Elite,1
+2101,Orlando Magic,Magic,nba,0.68,0,2652.0,False,Eastern - Southeast,Southeast,sports,basketball,Low,1
+797402,NBA Western Conference Finals,NBA Western Conference Finals,nba,0.8,583936,Unknown,True,No Division,No Division,sports,basketball,Elite,0
+14328,NHL Eastern Conference Finals,NHL Eastern Conference Finals,nhl,0.77,358086,Unknown,True,No Division,No Division,sports,hockey,High,0
+797658,NHL Western Conference Finals,NHL Western Conference Finals,nhl,0.73,406420,Unknown,True,No Division,No Division,sports,hockey,High,0
+2094,Cleveland Cavaliers,Cavaliers,nba,0.78,4489562,120.0,False,Eastern - Central,Central,sports,basketball,Elite,1
+797403,NBA Eastern Conference Finals,NBA Eastern Conference Finals,nba,0.84,3220810,Unknown,True,No Division,No Division,sports,basketball,Elite,0
+701389,NHL Eastern Conference Second Round,NHL Eastern Conference Second Round,nhl,0.75,89090,Unknown,True,No Division,No Division,sports,hockey,Medium,0
+2095,Detroit Pistons,Pistons,nba,0.71,427843,420444.0,False,Eastern - Central,Central,sports,basketball,High,1
+797401,NBA Eastern Conference Semifinals,NBA Eastern Conference Semifinals,nba,0.8,418502,Unknown,True,No Division,No Division,sports,basketball,High,0
+802460,NBA Western Conference Semifinals,NBA Western Conference Semifinals,nba,0.75,190960,Unknown,True,No Division,No Division,sports,basketball,High,0
+448018,NHL Western Conference Second Round,NHL Western Conference Second Round,nhl,0.7,120559,Unknown,True,No Division,No Division,sports,hockey,High,0
+2141,Minnesota Wild,Wild,nhl,0.66,231281,123.0,False,Western - Central,Central,sports,hockey,High,1
+2091,Philadelphia 76ers,76ers,nba,0.71,1359617,3148.0,False,Eastern - Atlantic,Atlantic,sports,basketball,Elite,1
+2092,Toronto Raptors,Raptors,nba,0.68,753829,91.0,False,Eastern - Atlantic,Atlantic,sports,basketball,Elite,1
+701347,NHL Eastern Conference First Round,NHL Eastern Conference First Round,nhl,0.73,75322,Unknown,True,No Division,No Division,sports,hockey,Medium,0
+2088,Boston Celtics,Celtics,nba,0.73,430185,1544.0,False,Eastern - Atlantic,Atlantic,sports,basketball,High,1
+797400,NBA Eastern Conference First Round,NBA Eastern Conference First Round,nba,0.75,299148,Unknown,True,No Division,No Division,sports,basketball,High,0
+2114,Houston Rockets,Rockets,nba,0.7,317615,129.0,False,Western - Southwest,Southwest,sports,basketball,High,1
+787816,NBA Western Conference First Round,NBA Western Conference First Round,nba,0.75,292053,Unknown,True,No Division,No Division,sports,basketball,High,0
+14293,NHL Western Conference First Round,NHL Western Conference First Round,nhl,0.74,235990,Unknown,True,No Division,No Division,sports,hockey,High,0
+2098,Atlanta Hawks,Hawks,nba,0.68,579656,127.0,False,Eastern - Southeast,Southeast,sports,basketball,Elite,1
+2103,Denver Nuggets,Nuggets,nba,0.7,203866,187.0,False,Western - Northwest,Northwest,sports,basketball,High,1
+2106,Portland Trail Blazers,Trail Blazers,nba,0.66,394258,256.0,False,Western - Northwest,Northwest,sports,basketball,High,1
+2111,Phoenix Suns,Suns,nba,0.69,266996,130.0,False,Western - Pacific,Pacific,sports,basketball,High,1
+2126,Ottawa Senators,Senators,nhl,0.61,113968,150.0,False,Eastern - Atlantic,Atlantic,sports,hockey,High,1
+705588,Saints Draft Crawfish Cookoff,Saints Draft Crawfish Cookoff,nfl,0.65,732,Unknown,True,No Division,No Division,sports,football,Low,0
+1968910,MLB Mexico Series,MLB Mexico Series,mlb,0.56,23878,Unknown,True,No Division,No Division,sports,baseball,Medium,0
+2099,Charlotte Hornets,Hornets,nba,0.67,148089,112.0,False,Eastern - Southeast,Southeast,sports,basketball,High,1
+802458,NBA Play-In Tournament,NBA Play-In Tournament,nba,0.7,165514,Unknown,True,No Division,No Division,sports,basketball,High,0
+2137,St. Louis Blues,Blues,nhl,0.65,59776,186.0,False,Western - Central,Central,sports,hockey,Medium,1
+2109,Los Angeles Clippers,Clippers,nba,0.68,89127,522233.0,False,Western - Pacific,Pacific,sports,basketball,Medium,1
+2127,Toronto Maple Leafs,Maple Leafs,nhl,0.67,4004,91.0,False,Eastern - Atlantic,Atlantic,sports,hockey,Medium,1
+2133,Chicago Blackhawks,Blackhawks,nhl,0.67,12272,136.0,False,Western - Central,Central,sports,hockey,Medium,1
+2093,Chicago Bulls,Bulls,nba,0.68,65758,136.0,False,Eastern - Central,Central,sports,basketball,Medium,1
+2096,Indiana Pacers,Pacers,nba,0.71,19198,121.0,False,Eastern - Central,Central,sports,basketball,Medium,1
+2102,Washington Wizards,Wizards,nba,0.67,172894,181.0,False,Eastern - Southeast,Southeast,sports,basketball,High,1
+2107,Utah Jazz,Jazz,nba,0.71,77087,188.0,False,Western - Northwest,Northwest,sports,basketball,Medium,1
+2113,Dallas Mavericks,Mavericks,nba,0.71,73575,117.0,False,Western - Southwest,Southwest,sports,basketball,Medium,1
+2115,Memphis Grizzlies,Grizzlies,nba,0.65,49160,1243.0,False,Western - Southwest,Southwest,sports,basketball,Medium,1
+1965932,Cavaliers Team Member RSVP,Cavaliers Team Member RSVP,nba,0.36,713,Unknown,True,No Division,No Division,sports,basketball,Low,0
+808683,Arizona Cardinals Season Ticket Deposits,Arizona Cardinals Season Ticket Deposits,nfl,0.0,0,43.0,True,No Division,No Division,sports,football,Low,1
+793009,MLB Opening Day,MLB Opening Day,mlb,0.81,439484,Unknown,True,No Division,No Division,sports,baseball,High,0
+18853,Sugar Land Space Cowboys,Sugar Land Space Cowboys,minor_league_baseball,0.4,4640,Unknown,False,No Division,No Division,sports,baseball,Medium,0
+809281,Cactus League,Cactus League,mlb,0.63,65500,Unknown,True,No Division,No Division,sports,baseball,Medium,0
+495775,Sultanes De Monterrey,Sultanes De Monterrey,minor_league_baseball,0.59,4859,Unknown,False,No Division,No Division,sports,baseball,Medium,0
+809280,Spring Training,Spring Training,mlb,0.61,82659,Unknown,True,No Division,No Division,sports,baseball,Medium,0
+809282,Grapefruit League,Grapefruit League,mlb,0.59,19800,Unknown,True,No Division,No Division,sports,baseball,Medium,0
+9415,Springfield Cardinals,Springfield Cardinals,minor_league_baseball,0.32,924,Unknown,False,No Division,No Division,sports,baseball,Low,0
+9258,Sacramento River Cats,Sacramento River Cats,minor_league_baseball,0.41,8112,Unknown,False,No Division,No Division,sports,baseball,Medium,0
+810537,Spring Breakout,Spring Breakout,mlb,0.57,27876,Unknown,True,No Division,No Division,sports,baseball,Medium,0
+150543,Futures at Fenway,Futures at Fenway,mlb,0.39,465,Unknown,False,No Division,No Division,sports,baseball,Low,0
+1959692,Big League Weekend,Big League Weekend,mlb,0.57,6345,Unknown,True,No Division,No Division,sports,baseball,Medium,0
+800225,Venezuela Baseball,Venezuela Baseball,baseball,0.71,341219,Unknown,False,No Division,No Division,sports,baseball,High,0
+57222,World Baseball Classic,World Baseball Classic,baseball,0.7,2448556,Unknown,True,No Division,No Division,sports,baseball,Elite,0
+800223,Colombia Baseball,Colombia Baseball,baseball,0.58,13227,Unknown,False,No Division,No Division,sports,baseball,Medium,0
+800224,Puerto Rico Baseball,Puerto Rico Baseball,baseball,0.68,67104,Unknown,False,No Division,No Division,sports,baseball,Medium,0
+800227,Israel Baseball,Israel Baseball,baseball,0.63,125032,Unknown,False,No Division,No Division,sports,baseball,High,0
+802196,Cuba Baseball,Cuba Baseball,baseball,0.6,19500,Unknown,False,No Division,No Division,sports,baseball,Medium,0
+806247,Nicaragua Baseball,Nicaragua Baseball,baseball,0.67,311276,Unknown,False,No Division,No Division,sports,baseball,High,0
+806248,Panama Baseball,Panama Baseball,baseball,0.57,29187,Unknown,False,No Division,No Division,sports,baseball,Medium,0
+800221,Canada Baseball,Canada Baseball,baseball,0.57,20910,Unknown,False,No Division,No Division,sports,baseball,Medium,0
+608253,Mexico Baseball,Mexico Baseball,baseball,0.76,829290,Unknown,False,No Division,No Division,sports,baseball,Elite,0
+1967457,Brazil Baseball,Brazil Baseball,baseball,0.67,170770,Unknown,False,No Division,No Division,sports,baseball,High,0
+1957489,Netherlands Baseball,Netherlands Baseball,baseball,0.65,191090,Unknown,False,No Division,No Division,sports,baseball,High,0
+1957488,Italy Baseball,Italy Baseball,baseball,0.62,73984,Unknown,False,No Division,No Division,sports,baseball,Medium,0
+1957487,Great Britain Baseball,Great Britain Baseball,baseball,0.68,171064,Unknown,False,No Division,No Division,sports,baseball,High,0
+10620,USA Baseball,USA Baseball,baseball,0.77,880096,Unknown,False,No Division,No Division,sports,baseball,Elite,0
+808957,Gold Rush Super Nationals,Gold Rush Super Nationals,nfl,0.64,9618,Unknown,True,No Division,No Division,sports,football,Medium,0
+9574,Minnesota Golden Gophers Baseball,Minnesota Golden Gophers Baseball,ncaa_baseball,0.38,2572,207417.0,False,No Division,No Division,sports,baseball,Low,1
+13955,Northeastern Huskies Baseball,Northeastern Huskies Baseball,ncaa_baseball,0.58,24688,Unknown,False,No Division,No Division,sports,baseball,Medium,0
+798921,NBA All-Star Game,NBA All-Star Game,nba,0.7,108326,Unknown,True,No Division,No Division,sports,basketball,High,0
+107742,NBA All-Star Saturday Night,NBA All-Star Saturday Night,nba,0.73,58962,Unknown,True,No Division,No Division,sports,basketball,Medium,0
+302351,NBA All Star Celebrity Game,NBA All Star Celebrity Game,nba,0.66,13523,Unknown,True,No Division,No Division,sports,basketball,Medium,0
+302352,NBA All Star Rising Stars Challenge,NBA All Star Rising Stars Challenge,nba,0.62,9565,Unknown,True,No Division,No Division,sports,basketball,Medium,0
+800993,NBA HBCU Classic,NBA HBCU Classic,nba,0.47,1197,Unknown,True,No Division,No Division,sports,basketball,Low,0
+11591,Super Bowl,Super Bowl,nfl,0.99,6045158,128.0,True,No Division,No Division,sports,football,Elite,1
+616548,Bad Bunny,Bad Bunny,band,0.84,6045158,Unknown,False,No Division,No Division,concert,concert,Elite,0
+793008,NFL Playoffs,NFL Playoffs,nfl,0.88,6045158,Unknown,True,No Division,No Division,sports,football,Elite,0
+13474,NFC Championship Game,NFC Championship Game,nfl,0.88,258635,Unknown,True,No Division,No Division,sports,football,High,0
+14051,AFC Championship,AFC Championship,nfl,0.9,402972,Unknown,True,No Division,No Division,sports,football,High,0
+793006,NFC Divisional Round,NFC Divisional Round,nfl,0.85,377558,Unknown,True,No Division,No Division,sports,football,High,0
+792983,AFC Divisional,AFC Divisional,nfl,0.84,515086,Unknown,True,No Division,No Division,sports,football,High,0
+792984,AFC Wild Card,AFC Wild Card,nfl,0.83,100891,Unknown,True,No Division,No Division,sports,football,High,0
+793007,NFC Wild Card Game,NFC Wild Card Game,nfl,0.86,208400,Unknown,True,No Division,No Division,sports,football,High,0
+1964761,Chicago Bears Tailgates,Chicago Bears Tailgates,nfl,0.33,3,Unknown,True,No Division,No Division,sports,football,Low,0
+1964762,Denver Broncos Tailgates,Denver Broncos Tailgates,nfl,0.39,488,Unknown,True,No Division,No Division,sports,football,Low,0
+1964763,Minnesota Vikings Tailgates,Minnesota Vikings Tailgates,nfl,0.3,73,Unknown,True,No Division,No Division,sports,football,Low,0
+1964764,Pittsburgh Steelers Tailgates,Pittsburgh Steelers Tailgates,nfl,0.3,101,Unknown,True,No Division,No Division,sports,football,Low,0
+1964765,Tampa Bay Buccaneers Tailgates,Tampa Bay Buccaneers Tailgates,nfl,0.39,550,Unknown,True,No Division,No Division,sports,football,Low,0
+1964947,Tennessee Titans Tailgates,Tennessee Titans Tailgates,nfl,0.39,36,1609404.0,False,No Division,No Division,sports,football,Low,1
+799643,Green Bay Packers Tailgates,Green Bay Packers Tailgates,nfl,0.37,4,Unknown,True,No Division,No Division,sports,football,Low,0
+1964948,Washington Commanders Tailgates,Washington Commanders Tailgates,nfl,0.39,28,Unknown,True,No Division,No Division,sports,football,Low,0
+1964946,New Orleans Saints Tailgates,New Orleans Saints Tailgates,nfl,0.37,2,Unknown,True,No Division,No Division,sports,football,Low,0
+792442,Seattle Seahawks Tailgate,Seattle Seahawks Tailgate,nfl,0.3,24,Unknown,True,No Division,No Division,sports,football,Low,0
+804528,NBA Cup,NBA Cup,nba,0.69,41384,161601.0,True,No Division,No Division,sports,basketball,Medium,1
+1964945,Dallas Cowboys Tailgates,Dallas Cowboys Tailgates,nfl,0.42,262,Unknown,True,No Division,No Division,sports,football,Low,0
+1964944,Arizona Cardinals Tailgates,Arizona Cardinals Tailgates,nfl,0.37,317,Unknown,True,No Division,No Division,sports,football,Low,0
+1955179,Pregame Party at Heritage,Pregame Party at Heritage,nfl,0.56,1303,43.0,True,No Division,No Division,sports,football,Low,1
+807543,AT&T Stadium Art Tour,AT&T Stadium Art Tour,stadium_tours,0.35,316,Unknown,False,No Division,No Division,sports,football,Low,0
+1957841,Arizona Fall League Championship,Arizona Fall League Championship,baseball,0.3,192,Unknown,True,No Division,No Division,sports,baseball,Low,0
+1957842,Arizona Fall League,Arizona Fall League,baseball,0.33,192,Unknown,False,No Division,No Division,sports,baseball,Low,0
+1957839,Arizona Fall League Fall Stars Game,Arizona Fall League Fall Stars Game,baseball,0.31,205,Unknown,True,No Division,No Division,sports,baseball,Low,0
+1957838,Arizona Fall League Home Run Derby,Arizona Fall League Home Run Derby,baseball,0.34,278,Unknown,True,No Division,No Division,sports,baseball,Low,0
+257280,MLB World Series,MLB World Series,mlb,0.95,6170041,Unknown,True,No Division,No Division,sports,baseball,Elite,0
+793010,MLB Postseason,MLB Postseason,mlb,0.88,6170041,Unknown,True,No Division,No Division,sports,baseball,Elite,0
+792987,ALCS,ALCS,mlb,0.83,706838,Unknown,True,No Division,No Division,sports,baseball,Elite,0
+792974,NLCS,NLCS,mlb,0.83,4200365,Unknown,True,No Division,No Division,sports,baseball,Elite,0
+1964866,Guangzhou Loong Lions,Guangzhou Loong Lions,basketball,0.49,674,Unknown,False,No Division,No Division,sports,basketball,Low,0
+792986,NLDS,NLDS,mlb,0.86,4031758,Unknown,True,No Division,No Division,sports,baseball,Elite,0
+792985,ALDS,ALDS,mlb,0.83,569710,Unknown,True,No Division,No Division,sports,baseball,Elite,0
