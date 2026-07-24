@@ -34,3 +34,6 @@ desktop.ini
 # === Misc ===
 *.log
 *.tmp
+
+# === SeatGeek Dataset (education/research only - no republishing) ===
+Understanding of dataset (Notebook)/dataset_output_from_notebook_work2/
