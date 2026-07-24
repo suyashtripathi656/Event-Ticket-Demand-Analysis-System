@@ -82,31 +82,12 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-The app will open at `http://localhost:8501`.
+## 🚀 Deployment
 
-### Retraining the Model (Optional)
+The application is deployed on **Streamlit Community Cloud** and can be accessed here:
 
-If you need to retrain the model with updated data:
-
-```bash
-python train_and_save_model.py
-```
-
-This regenerates `trained_model.pkl`, `preprocessor.pkl`, and `demand_scaler.pkl` in the `output/` directory.
-
----
-
-## ☁️ Deployment (Streamlit Community Cloud)
-
-1. Push the `streamlit_app/` contents to a GitHub repository
-2. Go to [share.streamlit.io](https://share.streamlit.io)
-3. Click **"New app"**
-4. Select your repo → Branch: `main` → Main file: `app.py`
-5. Click **"Deploy"**
-
-Expected cold-start time: ~45-60 seconds.
-
----
+**Live Demo:**  
+https://event-ticket-demand-analysis-system-4577.streamlit.app/
 
 ## 🧠 How It Works
 
