@@ -134,6 +134,6 @@ Free for research and non-commercial use with attribution.
 
 ---
 
-## 📄 License
+## 🎓 IBM Internship
 
-This project was developed as part of the IBM Data Science Internship program.
+This project was developed as part of the **IBM Internship Program** under the **Data Analytics and Artificial Intelligence** domain. It demonstrates an end-to-end machine learning workflow, including data preprocessing, feature engineering, exploratory data analysis, model development, evaluation, and deployment through an interactive web application.
