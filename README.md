@@ -119,6 +119,21 @@ Expected cold-start time: ~45-60 seconds.
 
 ---
 
+## 📊 Dataset
+
+This project utilizes the **public preview** of the **SeatGeek Events & Ticket Listings Dataset** provided by **Rebrowser** for research and educational purposes. The dataset was used for data preprocessing, feature engineering, exploratory data analysis, and machine learning model development.
+
+**Source:**  
+https://github.com/rebrowser/seatgeek-dataset
+
+**License:**  
+Free for research and non-commercial use with attribution.
+
+**Attribution:**  
+© Rebrowser
+
+---
+
 ## 📄 License
 
 This project was developed as part of the IBM Data Science Internship program.
